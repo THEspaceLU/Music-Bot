@@ -1,2 +1,2 @@
-# ear-tensifier
-A bot that can play music VERY LOUD
+# DefinitelyNotBot
+A Discord bot coded in Discord.JS, hosted using Heroku.
